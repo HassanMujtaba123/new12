@@ -1,0 +1,108 @@
+.main{
+    background-image: url(./IMG20210727172223.jpg);
+    background-size: cover;
+    height: 600px;
+    margin-bottom: -5%;
+}
+
+.div1{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.932);
+    color: aliceblue;
+    padding-left: 200px;
+    
+}
+
+.h1{
+    text-transform: capitalize;
+    font-size: 25pxpx;
+    padding-top: 10px;
+}
+.h2{
+    font-size:30px;
+    padding-left: 5px;
+    color: brown;
+}
+.p1{
+    margin-left: 10px;
+    padding-top: 20px;
+    font-size: 15px;
+}
+.l1{
+    padding-top: 25px;
+    padding-left: 300px;
+
+}
+.l2{
+    padding-top: 16px;
+    padding: 25px;
+    padding-bottom: 30px;
+}
+.div2{
+    text-align: center;
+    margin-top: 90px;
+}
+.div2 h2{
+    color: white;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+.div2 .fun{
+    color: white;
+    text-transform: capitalize;
+    font-size: 50px;
+}
+.div2 p{
+    /* height: 10px; */
+    color: rgb(31, 29, 29);
+}
+.div2 h3{
+    text-transform: capitalize;
+    color: white;
+    font-size: 25px;
+}
+.main1 .conteriner{
+    width: 80%;
+    margin: 0 auto;
+    border:1px solid red ;
+    background-color: azure;
+    margin-bottom: -10%;
+
+}
+.main1 .conteriner .ptag{
+    color: gray;
+
+}
+.main1 .conteriner .fatherdiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6%;
+}
+.main1 .conteriner .div{
+    border: 1px solid red;
+    width: 20%;
+}
+.main1 .conteriner .div12{
+    border: 1px solid red;
+    width: 20%;
+}
+.main1 .conteriner .div3{
+    border: 1px solid red;
+    width: 20%;
+}
+.main1 .conteriner .div4{
+    border: 1px solid red;
+    width: 20%;
+}
+.main1 .conteriner button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    width: 10%;
+}
+.main1 .conteriner .brother{
+    display: flex;
+    justify-content: space-between;
+    
+}
